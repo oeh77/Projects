@@ -1,0 +1,20 @@
+repo_name: oeh77/Projects
+report_id: a3a586d8c81d359fdb8009d04667c22c
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-28T02:43:11+00:00'
+requested_by: karan
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/oeh77/Projects
+  detection_source: Repo Metadata
